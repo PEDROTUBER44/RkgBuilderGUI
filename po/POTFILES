@@ -1,0 +1,4 @@
+data/com.rocket.RkgBuilderGUI.desktop.in
+data/com.rocket.RkgBuilderGUI.appdata.xml.in
+data/com.rocket.RkgBuilderGUI.gschema.xml
+src/window.ui

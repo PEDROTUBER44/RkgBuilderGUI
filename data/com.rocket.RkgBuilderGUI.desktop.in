@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=rkgbuildergui
+Exec=rkgbuildergui
+Icon=com.rocket.RkgBuilderGUI
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

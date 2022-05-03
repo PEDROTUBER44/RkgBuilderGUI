@@ -1,0 +1,8 @@
+[package]
+name = "rkgbuildergui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gettext-rs = { version = "0.7", features = ["gettext-system"] }
+gtk = { git = "https://github.com/gtk-rs/gtk4-rs.git", package = "gtk4" }
